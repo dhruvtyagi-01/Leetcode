@@ -23,4 +23,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0078-subsets](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0078-subsets) |
+## String
+|  |
+| ------- |
+| [2401-count-asterisks](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2401-count-asterisks) |
 <!---LeetCode Topics End-->
