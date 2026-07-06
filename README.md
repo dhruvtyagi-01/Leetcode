@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0001-two-sum) |
 | [0051-n-queens](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0078-subsets) |
 | [2662-check-knight-tour-configuration](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2662-check-knight-tour-configuration) |
@@ -52,4 +53,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0258-add-digits) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
