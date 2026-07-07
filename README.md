@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0258-add-digits) |
 ## Recursion
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0013-roman-to-integer) |
 | [2401-count-asterisks](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2401-count-asterisks) |
 ## Depth-First Search
 |  |
@@ -64,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0013-roman-to-integer) |
 | [0229-majority-element-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0229-majority-element-ii) |
 ## Sorting
 |  |
