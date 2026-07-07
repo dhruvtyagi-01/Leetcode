@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0137-single-number-ii) |
 | [0229-majority-element-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0229-majority-element-ii) |
+| [0260-single-number-iii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0260-single-number-iii) |
 | [2662-check-knight-tour-configuration](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 ## Backtracking
 |  |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0078-subsets](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0260-single-number-iii) |
 ## String
 |  |
 | ------- |
