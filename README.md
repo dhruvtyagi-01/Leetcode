@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0263-ugly-number) |
 | [1086-divisor-game](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1086-divisor-game) |
@@ -90,4 +91,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1086-divisor-game) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
