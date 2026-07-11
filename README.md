@@ -51,6 +51,7 @@ Collection of LeetCode questions
 | [0541-reverse-string-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0541-reverse-string-ii) |
 | [2401-count-asterisks](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2401-count-asterisks) |
 | [2427-first-letter-to-appear-twice](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2886-faulty-keyboard](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2886-faulty-keyboard) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -68,6 +69,7 @@ Collection of LeetCode questions
 | ------- |
 | [0258-add-digits](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0258-add-digits) |
 | [2662-check-knight-tour-configuration](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2662-check-knight-tour-configuration) |
+| [2886-faulty-keyboard](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2886-faulty-keyboard) |
 ## Number Theory
 |  |
 | ------- |
