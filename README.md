@@ -27,6 +27,7 @@ Collection of LeetCode questions
 | [0137-single-number-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0137-single-number-ii) |
 | [0229-majority-element-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0260-single-number-iii) |
+| [1256-rank-transform-of-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2662-check-knight-tour-configuration](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Backtracking
@@ -83,11 +84,13 @@ Collection of LeetCode questions
 | [0229-majority-element-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1256-rank-transform-of-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Sorting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0229-majority-element-ii) |
+| [1256-rank-transform-of-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 ## Counting
 |  |
 | ------- |
