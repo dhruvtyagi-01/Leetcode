@@ -129,6 +129,7 @@ Collection of LeetCode questions
 ## Enumeration
 |  |
 | ------- |
+| [1212-sequential-digits](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1212-sequential-digits) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Linked List
 |  |
