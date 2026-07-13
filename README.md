@@ -17,6 +17,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -128,4 +129,8 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
