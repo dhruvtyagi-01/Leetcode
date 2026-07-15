@@ -147,6 +147,7 @@ Collection of LeetCode questions
 | [0141-linked-list-cycle](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0838-design-linked-list](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
@@ -182,4 +183,8 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
+## Design
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
