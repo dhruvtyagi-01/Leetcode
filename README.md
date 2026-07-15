@@ -135,6 +135,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -148,6 +149,7 @@ Collection of LeetCode questions
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
