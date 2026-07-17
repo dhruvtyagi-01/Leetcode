@@ -38,6 +38,7 @@ Collection of LeetCode questions
 | [0260-single-number-iii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0260-single-number-iii) |
 | [0948-sort-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1603-running-sum-of-1d-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2662-check-knight-tour-configuration](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -215,6 +216,7 @@ Collection of LeetCode questions
 ## Prefix Sum
 |  |
 | ------- |
+| [1603-running-sum-of-1d-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [3583-sorted-gcd-pair-queries](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Design
