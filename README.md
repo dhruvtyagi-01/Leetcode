@@ -15,6 +15,7 @@ Collection of LeetCode questions
 | [0367-valid-perfect-square](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1086-divisor-game](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1086-divisor-game) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
+| [3583-sorted-gcd-pair-queries](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Recursion
@@ -39,6 +40,7 @@ Collection of LeetCode questions
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2662-check-knight-tour-configuration](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3583-sorted-gcd-pair-queries](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
@@ -90,6 +92,7 @@ Collection of LeetCode questions
 | ------- |
 | [0258-add-digits](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0258-add-digits) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
+| [3583-sorted-gcd-pair-queries](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -105,6 +108,7 @@ Collection of LeetCode questions
 | [0387-first-unique-character-in-a-string](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1256-rank-transform-of-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [3583-sorted-gcd-pair-queries](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
@@ -120,6 +124,7 @@ Collection of LeetCode questions
 | [0383-ransom-note](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [3583-sorted-gcd-pair-queries](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
@@ -139,6 +144,7 @@ Collection of LeetCode questions
 | ------- |
 | [0069-sqrtx](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0367-valid-perfect-square) |
+| [3583-sorted-gcd-pair-queries](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 ## Queue
 |  |
 | ------- |
@@ -207,9 +213,14 @@ Collection of LeetCode questions
 ## Prefix Sum
 |  |
 | ------- |
+| [3583-sorted-gcd-pair-queries](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Design
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0838-design-linked-list) |
+## Combinatorics
+|  |
+| ------- |
+| [3583-sorted-gcd-pair-queries](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
