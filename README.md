@@ -30,6 +30,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0051-n-queens](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0078-subsets) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0367-valid-perfect-square) |
 | [3583-sorted-gcd-pair-queries](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
@@ -194,6 +196,7 @@ Collection of LeetCode questions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0948-sort-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0948-sort-an-array) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Heap (Priority Queue)
