@@ -15,6 +15,7 @@ Collection of LeetCode questions
 | [0367-valid-perfect-square](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1086-divisor-game](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1086-divisor-game) |
+| [2037-count-square-sum-triples](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2037-count-square-sum-triples) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [3583-sorted-gcd-pair-queries](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
@@ -181,6 +182,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [1212-sequential-digits](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1212-sequential-digits) |
+| [2037-count-square-sum-triples](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2037-count-square-sum-triples) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Linked List
 |  |
