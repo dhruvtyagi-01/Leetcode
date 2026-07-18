@@ -14,6 +14,7 @@ Collection of LeetCode questions
 | [0263-ugly-number](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1086-divisor-game](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1086-divisor-game) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [3583-sorted-gcd-pair-queries](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
@@ -42,6 +43,7 @@ Collection of LeetCode questions
 | [0948-sort-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2662-check-knight-tour-configuration](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -96,6 +98,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0258-add-digits) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [3583-sorted-gcd-pair-queries](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
