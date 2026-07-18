@@ -33,6 +33,7 @@ Collection of LeetCode questions
 | ------- |
 | [0001-two-sum](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0051-n-queens](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0078-subsets) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -156,6 +157,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0633-sum-of-square-numbers) |
