@@ -167,6 +167,7 @@ Collection of LeetCode questions
 | [0004-median-of-two-sorted-arrays](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [3583-sorted-gcd-pair-queries](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
@@ -261,4 +262,8 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
