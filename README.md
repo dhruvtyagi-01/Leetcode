@@ -85,6 +85,7 @@ Collection of LeetCode questions
 | [0387-first-unique-character-in-a-string](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0953-reverse-only-letters](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0953-reverse-only-letters) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2401-count-asterisks](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2401-count-asterisks) |
 | [2427-first-letter-to-appear-twice](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2886-faulty-keyboard](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2886-faulty-keyboard) |
@@ -106,6 +107,7 @@ Collection of LeetCode questions
 | ------- |
 | [0258-add-digits](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0258-add-digits) |
 | [1386-shift-2d-grid](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1386-shift-2d-grid) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2662-check-knight-tour-configuration](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2886-faulty-keyboard](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2886-faulty-keyboard) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
@@ -273,4 +275,5 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0020-valid-parentheses) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
