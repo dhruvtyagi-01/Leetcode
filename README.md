@@ -16,6 +16,7 @@ Collection of LeetCode questions
 | [0371-sum-of-two-integers](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0633-sum-of-square-numbers](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1086-divisor-game](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1086-divisor-game) |
+| [1610-xor-operation-in-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2037-count-square-sum-triples](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2037-count-square-sum-triples) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2383-add-two-integers](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2383-add-two-integers) |
@@ -71,6 +72,7 @@ Collection of LeetCode questions
 | [0137-single-number-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0260-single-number-iii) |
 | [0371-sum-of-two-integers](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [1610-xor-operation-in-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## String
 |  |
