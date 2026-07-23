@@ -259,6 +259,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0838-design-linked-list) |
+| [0937-online-stock-span](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0937-online-stock-span) |
 ## Combinatorics
 |  |
 | ------- |
@@ -275,5 +276,14 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0020-valid-parentheses) |
+| [0937-online-stock-span](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0937-online-stock-span) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
