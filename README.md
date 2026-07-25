@@ -22,6 +22,7 @@ Collection of LeetCode questions
 | [2383-add-two-integers](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2383-add-two-integers) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [3583-sorted-gcd-pair-queries](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
+| [3859-maximum-product-of-two-digits](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Recursion
@@ -144,6 +145,7 @@ Collection of LeetCode questions
 | [0229-majority-element-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0229-majority-element-ii) |
 | [0948-sort-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [3859-maximum-product-of-two-digits](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
