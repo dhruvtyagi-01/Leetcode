@@ -14,6 +14,7 @@ Collection of LeetCode questions
 | [0263-ugly-number](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1086-divisor-game](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1086-divisor-game) |
 | [1610-xor-operation-in-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1610-xor-operation-in-an-array) |
@@ -50,6 +51,7 @@ Collection of LeetCode questions
 | [0238-product-of-array-except-self](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0260-single-number-iii) |
 | [0560-subarray-sum-equals-k](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1386-shift-2d-grid](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1386-shift-2d-grid) |
@@ -143,6 +145,7 @@ Collection of LeetCode questions
 | ------- |
 | [0088-merge-sorted-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0229-majority-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [3859-maximum-product-of-two-digits](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
