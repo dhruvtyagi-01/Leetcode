@@ -65,6 +65,7 @@ Collection of LeetCode questions
 | [2662-check-knight-tour-configuration](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3583-sorted-gcd-pair-queries](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
+| [3644-minimum-positive-sum-subarray](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
@@ -272,6 +273,7 @@ Collection of LeetCode questions
 | [0560-subarray-sum-equals-k](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [3583-sorted-gcd-pair-queries](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
+| [3644-minimum-positive-sum-subarray](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Design
 |  |
@@ -309,4 +311,5 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [3644-minimum-positive-sum-subarray](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
