@@ -12,6 +12,6 @@ public:
                 right--;
             }
         }
-        return {};
+        return {-1, -1};
     }
 };
