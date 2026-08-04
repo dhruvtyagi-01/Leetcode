@@ -48,6 +48,7 @@ Collection of LeetCode questions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0137-single-number-ii) |
+| [0162-find-peak-element](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0217-contains-duplicate) |
@@ -198,6 +199,7 @@ Collection of LeetCode questions
 | [0004-median-of-two-sorted-arrays](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0367-valid-perfect-square) |
