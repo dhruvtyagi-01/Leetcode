@@ -71,6 +71,7 @@ Collection of LeetCode questions
 | [3583-sorted-gcd-pair-queries](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3644-minimum-positive-sum-subarray](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4107-find-missing-elements](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
@@ -150,6 +151,7 @@ Collection of LeetCode questions
 | [2427-first-letter-to-appear-twice](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3583-sorted-gcd-pair-queries](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4107-find-missing-elements](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4107-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -162,6 +164,7 @@ Collection of LeetCode questions
 | [1256-rank-transform-of-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3859-maximum-product-of-two-digits](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
+| [4107-find-missing-elements](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
