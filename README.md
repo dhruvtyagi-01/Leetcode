@@ -16,6 +16,7 @@ Collection of LeetCode questions
 | [0371-sum-of-two-integers](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0909-stone-game](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1086-divisor-game) |
 | [1610-xor-operation-in-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2037-count-square-sum-triples](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2037-count-square-sum-triples) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions
 | [0560-subarray-sum-equals-k](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0909-stone-game](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0909-stone-game) |
 | [0948-sort-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1386-shift-2d-grid](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1386-shift-2d-grid) |
@@ -175,6 +177,7 @@ Collection of LeetCode questions
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0909-stone-game](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1086-divisor-game) |
 ## Brainteaser
 |  |
@@ -183,6 +186,7 @@ Collection of LeetCode questions
 ## Game Theory
 |  |
 | ------- |
+| [0909-stone-game](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1086-divisor-game) |
 ## Binary Search
 |  |
@@ -318,4 +322,12 @@ Collection of LeetCode questions
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
+## Minimax
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0909-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
