@@ -209,6 +209,7 @@ Collection of LeetCode questions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [3583-sorted-gcd-pair-queries](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
@@ -317,6 +318,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Stack
 |  |
 | ------- |
