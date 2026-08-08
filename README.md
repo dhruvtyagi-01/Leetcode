@@ -45,6 +45,7 @@ Collection of LeetCode questions
 | [0001-two-sum](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0046-permutations](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -82,6 +83,7 @@ Collection of LeetCode questions
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0078-subsets) |
 ## Bit Manipulation
