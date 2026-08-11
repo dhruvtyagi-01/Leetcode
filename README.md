@@ -78,6 +78,7 @@ Collection of LeetCode questions
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2662-check-knight-tour-configuration](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3583-sorted-gcd-pair-queries](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3644-minimum-positive-sum-subarray](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
@@ -162,6 +163,7 @@ Collection of LeetCode questions
 | [0560-subarray-sum-equals-k](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1256-rank-transform-of-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3583-sorted-gcd-pair-queries](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4107-find-missing-elements](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4107-find-missing-elements) |
@@ -176,6 +178,7 @@ Collection of LeetCode questions
 | [0948-sort-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3859-maximum-product-of-two-digits](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [4107-find-missing-elements](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
