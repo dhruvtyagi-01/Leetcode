@@ -111,6 +111,7 @@ Collection of LeetCode questions
 | [0387-first-unique-character-in-a-string](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0953-reverse-only-letters](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0953-reverse-only-letters) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2401-count-asterisks](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2401-count-asterisks) |
 | [2427-first-letter-to-appear-twice](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
@@ -351,6 +352,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3644-minimum-positive-sum-subarray](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Minimax
 |  |
