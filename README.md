@@ -81,6 +81,7 @@ Collection of LeetCode questions
 | [2106-find-greatest-common-divisor-of-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2662-check-knight-tour-configuration](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2662-check-knight-tour-configuration) |
+| [2714-left-and-right-sum-differences](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3583-sorted-gcd-pair-queries](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
@@ -324,6 +325,7 @@ Collection of LeetCode questions
 | [0238-product-of-array-except-self](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [2714-left-and-right-sum-differences](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3583-sorted-gcd-pair-queries](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3644-minimum-positive-sum-subarray](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
