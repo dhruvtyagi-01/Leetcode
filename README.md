@@ -71,6 +71,7 @@ Collection of LeetCode questions
 | [0560-subarray-sum-equals-k](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0724-find-pivot-index) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0909-stone-game](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0909-stone-game) |
 | [0948-sort-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0948-sort-an-array) |
@@ -324,6 +325,7 @@ Collection of LeetCode questions
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3583-sorted-gcd-pair-queries](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
