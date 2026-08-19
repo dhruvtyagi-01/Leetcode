@@ -7,9 +7,9 @@ public:
     void push(int value) {
         int mn = value;
 
-        if (!s.empty())
+        if (!s.empty()) {
             mn = min(mn, s.top().second);
-
+        }
         s.push({value, mn});
     }
 
