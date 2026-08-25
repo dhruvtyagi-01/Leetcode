@@ -91,6 +91,7 @@ Collection of LeetCode questions
 | [3583-sorted-gcd-pair-queries](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3644-minimum-positive-sum-subarray](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 | [4252-first-unique-even-element](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4252-first-unique-even-element) |
@@ -181,6 +182,7 @@ Collection of LeetCode questions
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3583-sorted-gcd-pair-queries](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4107-find-missing-elements) |
 | [4252-first-unique-even-element](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4252-first-unique-even-element) |
 ## Sorting
