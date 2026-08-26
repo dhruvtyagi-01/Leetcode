@@ -67,6 +67,7 @@ Collection of LeetCode questions
 | [0260-single-number-iii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -172,6 +173,7 @@ Collection of LeetCode questions
 | [0217-contains-duplicate](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -193,6 +195,7 @@ Collection of LeetCode questions
 | [0229-majority-element-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0948-sort-an-array) |
@@ -242,6 +245,7 @@ Collection of LeetCode questions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -265,6 +269,7 @@ Collection of LeetCode questions
 | [0202-happy-number](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0908-middle-of-the-linked-list) |
