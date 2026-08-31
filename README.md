@@ -52,6 +52,7 @@ Collection of LeetCode questions
 | [0051-n-queens](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0136-single-number) |
@@ -366,6 +367,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -374,6 +376,7 @@ Collection of LeetCode questions
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0937-online-stock-span) |
 ## Data Stream
@@ -402,4 +405,8 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0202-happy-number) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
