@@ -79,6 +79,7 @@ Collection of LeetCode questions
 | [0882-peak-index-in-a-mountain-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0909-stone-game](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0909-stone-game) |
 | [0948-sort-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0948-sort-an-array) |
+| [1072-next-greater-node-in-linked-list](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1256-rank-transform-of-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1386-shift-2d-grid](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1386-shift-2d-grid) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -302,6 +303,7 @@ Collection of LeetCode questions
 | [0234-palindrome-linked-list](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0838-design-linked-list](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1072-next-greater-node-in-linked-list](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -376,6 +378,7 @@ Collection of LeetCode questions
 | [0234-palindrome-linked-list](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0937-online-stock-span) |
+| [1072-next-greater-node-in-linked-list](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
@@ -384,6 +387,7 @@ Collection of LeetCode questions
 | [0084-largest-rectangle-in-histogram](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0937-online-stock-span) |
+| [1072-next-greater-node-in-linked-list](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 ## Data Stream
 |  |
 | ------- |
