@@ -82,6 +82,7 @@ Collection of LeetCode questions
 | [1072-next-greater-node-in-linked-list](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1256-rank-transform-of-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1386-shift-2d-grid](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1386-shift-2d-grid) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
@@ -145,6 +146,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [1386-shift-2d-grid](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1386-shift-2d-grid) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2662-check-knight-tour-configuration](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 ## Simulation
 |  |
@@ -255,6 +257,7 @@ Collection of LeetCode questions
 | [0374-guess-number-higher-or-lower](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [3583-sorted-gcd-pair-queries](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 ## Queue
 |  |
