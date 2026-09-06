@@ -69,6 +69,7 @@ Collection of LeetCode questions
 | [0260-single-number-iii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0275-h-index-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -253,6 +254,7 @@ Collection of LeetCode questions
 | [0162-find-peak-element](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0367-valid-perfect-square) |
