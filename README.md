@@ -64,6 +64,7 @@ Collection of LeetCode questions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0260-single-number-iii) |
@@ -180,6 +181,7 @@ Collection of LeetCode questions
 | [0142-linked-list-cycle-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -406,6 +408,7 @@ Collection of LeetCode questions
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3644-minimum-positive-sum-subarray](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
