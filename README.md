@@ -32,6 +32,7 @@ Collection of LeetCode questions
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
+| [4245-count-commas-in-range](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4245-count-commas-in-range) |
 ## Recursion
 |  |
 | ------- |
