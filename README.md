@@ -433,4 +433,8 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
