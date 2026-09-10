@@ -180,6 +180,7 @@ Collection of LeetCode questions
 | [0138-copy-list-with-random-pointer](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -311,6 +312,7 @@ Collection of LeetCode questions
 | [0138-copy-list-with-random-pointer](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0838-design-linked-list](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0838-design-linked-list) |
@@ -366,6 +368,7 @@ Collection of LeetCode questions
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0155-min-stack) |
 | [0838-design-linked-list](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0838-design-linked-list) |
 | [0937-online-stock-span](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0937-online-stock-span) |
@@ -437,4 +440,8 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0175-combine-two-tables) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
