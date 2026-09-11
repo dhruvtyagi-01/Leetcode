@@ -34,6 +34,7 @@ Collection of LeetCode questions
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 | [4245-count-commas-in-range](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4248-count-commas-in-range-ii) |
+| [4258-construct-uniform-parity-array-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4258-construct-uniform-parity-array-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -105,6 +106,7 @@ Collection of LeetCode questions
 | [4107-find-missing-elements](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 | [4252-first-unique-even-element](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4252-first-unique-even-element) |
+| [4258-construct-uniform-parity-array-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4284-smallest-stable-index-i](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4285-smallest-stable-index-ii) |
 ## Backtracking
