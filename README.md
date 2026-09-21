@@ -278,6 +278,7 @@ Collection of LeetCode questions
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
@@ -380,6 +381,7 @@ Collection of LeetCode questions
 | ------- |
 | [0146-lru-cache](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0838-design-linked-list](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0838-design-linked-list) |
 | [0937-online-stock-span](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0937-online-stock-span) |
@@ -403,6 +405,7 @@ Collection of LeetCode questions
 | [0042-trapping-rain-water](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0496-next-greater-element-i) |
