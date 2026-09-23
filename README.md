@@ -145,6 +145,7 @@ Collection of LeetCode questions
 | [2401-count-asterisks](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2401-count-asterisks) |
 | [2427-first-letter-to-appear-twice](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2886-faulty-keyboard](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2886-faulty-keyboard) |
+| [3396-valid-word](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3396-valid-word) |
 ## Depth-First Search
 |  |
 | ------- |
