@@ -139,6 +139,7 @@ Collection of LeetCode questions
 | [0387-first-unique-character-in-a-string](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0953-reverse-only-letters](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0953-reverse-only-letters) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2401-count-asterisks](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2401-count-asterisks) |
@@ -411,6 +412,7 @@ Collection of LeetCode questions
 | [0496-next-greater-element-i](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0937-online-stock-span) |
 | [1072-next-greater-node-in-linked-list](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
