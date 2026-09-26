@@ -73,6 +73,7 @@ Collection of LeetCode questions
 | [0219-contains-duplicate-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0274-h-index) |
@@ -284,6 +285,7 @@ Collection of LeetCode questions
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
@@ -342,6 +344,7 @@ Collection of LeetCode questions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0948-sort-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0948-sort-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
@@ -433,6 +436,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3644-minimum-positive-sum-subarray](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
@@ -456,6 +460,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0239-sliding-window-maximum) |
 ## Database
 |  |
 | ------- |
@@ -476,4 +481,8 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0866-rectangle-overlap) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
