@@ -149,6 +149,7 @@ Collection of LeetCode questions
 | [2427-first-letter-to-appear-twice](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2886-faulty-keyboard](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3396-valid-word](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3396-valid-word) |
+| [4177-reverse-string-prefix](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4177-reverse-string-prefix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -308,6 +309,7 @@ Collection of LeetCode questions
 | [0633-sum-of-square-numbers](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0953-reverse-only-letters) |
+| [4177-reverse-string-prefix](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4177-reverse-string-prefix) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
