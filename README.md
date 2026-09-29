@@ -137,6 +137,7 @@ Collection of LeetCode questions
 | [0005-longest-palindromic-substring](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -245,6 +246,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -412,6 +414,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0155-min-stack) |
@@ -489,4 +492,8 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
