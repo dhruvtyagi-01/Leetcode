@@ -313,6 +313,7 @@ Collection of LeetCode questions
 | [0633-sum-of-square-numbers](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0953-reverse-only-letters) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [4177-reverse-string-prefix](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4177-reverse-string-prefix) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
@@ -341,6 +342,7 @@ Collection of LeetCode questions
 | [0838-design-linked-list](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -429,6 +431,7 @@ Collection of LeetCode questions
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1666-make-the-string-great) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
