@@ -95,6 +95,7 @@ Collection of LeetCode questions
 | [1256-rank-transform-of-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1386-shift-2d-grid](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1386-shift-2d-grid) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
@@ -436,6 +437,7 @@ Collection of LeetCode questions
 | [0937-online-stock-span](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0937-online-stock-span) |
 | [1072-next-greater-node-in-linked-list](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1666-make-the-string-great) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -447,6 +449,7 @@ Collection of LeetCode questions
 | [0496-next-greater-element-i](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0937-online-stock-span) |
 | [1072-next-greater-node-in-linked-list](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Data Stream
 |  |
 | ------- |
