@@ -9,6 +9,7 @@ Collection of LeetCode questions
 | [0013-roman-to-integer](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0258-add-digits) |
@@ -253,6 +254,7 @@ Collection of LeetCode questions
 | [0005-longest-palindromic-substring](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0909-stone-game](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0909-stone-game) |
@@ -516,4 +518,8 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0032-longest-valid-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
