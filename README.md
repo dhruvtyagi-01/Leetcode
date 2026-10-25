@@ -20,6 +20,7 @@ Collection of LeetCode questions
 | [0507-perfect-number](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0728-self-dividing-numbers](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0866-rectangle-overlap](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0866-rectangle-overlap) |
 | [0909-stone-game](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1086-divisor-game) |
