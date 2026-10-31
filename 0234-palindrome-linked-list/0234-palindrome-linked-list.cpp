@@ -18,8 +18,10 @@ public:
             slow = slow->next;
             fast = fast->next->next;
         }
+
         ListNode* prev = nullptr;
         ListNode* curr = slow;
+        
         while(curr != nullptr) {
             ListNode* next = curr->next;
             curr->next = prev;
