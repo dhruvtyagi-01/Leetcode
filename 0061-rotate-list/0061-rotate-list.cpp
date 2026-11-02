@@ -24,6 +24,10 @@ public:
             return head;
         }
 
+        if(k == 0) {
+            return head;
+        }
+
         k = k % size;
         
         while (k != 0) {
