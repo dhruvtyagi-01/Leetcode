@@ -24,12 +24,12 @@ public:
             return head;
         }
 
+        k = k % size;
+
         if(k == 0) {
             return head;
         }
 
-        k = k % size;
-        
         while (k != 0) {
             ListNode* curr = head;
 
