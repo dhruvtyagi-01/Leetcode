@@ -26,24 +26,30 @@ public:
 
         k = k % size;
 
-        if(k == 0) {
+        if (k == 0) {
             return head;
         }
 
-        while (k != 0) {
-            ListNode* curr = head;
+        curr = head;
 
-            while (curr->next->next != nullptr) {
-                curr = curr->next;
-            }
-
-            ListNode* newHead = curr->next;
-            newHead->next = head;
-            head = newHead;
-            curr->next = nullptr;
-            k--;
+        while (curr->next != nullptr) {
+            curr = curr->next;
         }
 
+        curr->next = head;
+        curr = head;
+
+        int count = size - k - 1;
+
+        while (count != 0) {
+            curr = curr->next;
+            count--;
+        }
+
+        ListNode* newHead = curr->next;
+        head = newHead;
+        curr->next = nullptr;
+        
         return head;
     }
 };
