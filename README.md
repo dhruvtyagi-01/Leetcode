@@ -111,6 +111,7 @@ Collection of LeetCode questions
 | [2844-sum-of-squares-of-special-elements](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3583-sorted-gcd-pair-queries](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3644-minimum-positive-sum-subarray](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
