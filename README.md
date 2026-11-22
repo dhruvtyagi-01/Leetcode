@@ -162,6 +162,7 @@ Collection of LeetCode questions
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1666-make-the-string-great](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1666-make-the-string-great) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2401-count-asterisks](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2401-count-asterisks) |
 | [2427-first-letter-to-appear-twice](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
