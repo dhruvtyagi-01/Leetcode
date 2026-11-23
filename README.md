@@ -141,6 +141,7 @@ Collection of LeetCode questions
 | [0260-single-number-iii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0389-find-the-difference) |
 | [1610-xor-operation-in-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## String
@@ -155,6 +156,7 @@ Collection of LeetCode questions
 | [0345-reverse-vowels-of-a-string](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0953-reverse-only-letters](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0953-reverse-only-letters) |
@@ -223,6 +225,7 @@ Collection of LeetCode questions
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -244,6 +247,7 @@ Collection of LeetCode questions
 | [0274-h-index](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/dhruvtyagi-01/Leetcode/tree/master/0948-sort-an-array) |
