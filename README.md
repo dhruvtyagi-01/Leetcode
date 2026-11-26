@@ -33,6 +33,7 @@ Collection of LeetCode questions
 | [2383-add-two-integers](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2383-add-two-integers) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [3583-sorted-gcd-pair-queries](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3583-sorted-gcd-pair-queries) |
+| [3625-stone-removal-game](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3625-stone-removal-game) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -196,6 +197,7 @@ Collection of LeetCode questions
 | [2662-check-knight-tour-configuration](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2886-faulty-keyboard](https://github.com/dhruvtyagi-01/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3625-stone-removal-game](https://github.com/dhruvtyagi-01/Leetcode/tree/master/3625-stone-removal-game) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/dhruvtyagi-01/Leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
